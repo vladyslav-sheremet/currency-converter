@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+    padding: 15px;
+    background-color: rgb(40, 40, 161);
+}
+
+.currency-wrapper {
+    background-color: #335;
+    border-radius: 15px;
+    padding: 15px;
+    color: #fff;
+}
